@@ -1,4 +1,6 @@
-package one.digitalinnovation.singleton;
+package one.digitalinnovation.singleton.strategy;
+
+
 
 public class SingletonEager {
 
